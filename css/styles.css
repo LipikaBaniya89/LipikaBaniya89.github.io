@@ -12,7 +12,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 40px;
-  color: rgb(255,127,80);
+  color: rgb(245,195,194);
   background-color: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
 }
 
@@ -64,7 +64,7 @@ section:after {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+  background-color: #C06E5D;
   padding: 10px;
   text-align: center;
   color: white;
