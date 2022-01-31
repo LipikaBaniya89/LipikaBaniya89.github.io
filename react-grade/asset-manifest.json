@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-grade/static/css/main.51798c86.css",
-    "main.js": "/react-grade/static/js/main.d0cd8ed3.js",
+    "main.js": "/react-grade/static/js/main.9c7dbbe2.js",
     "static/js/787.fb98f6a1.chunk.js": "/react-grade/static/js/787.fb98f6a1.chunk.js",
     "index.html": "/react-grade/index.html",
     "main.51798c86.css.map": "/react-grade/static/css/main.51798c86.css.map",
-    "main.d0cd8ed3.js.map": "/react-grade/static/js/main.d0cd8ed3.js.map",
+    "main.9c7dbbe2.js.map": "/react-grade/static/js/main.9c7dbbe2.js.map",
     "787.fb98f6a1.chunk.js.map": "/react-grade/static/js/787.fb98f6a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51798c86.css",
-    "static/js/main.d0cd8ed3.js"
+    "static/js/main.9c7dbbe2.js"
   ]
 }
